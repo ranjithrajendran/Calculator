@@ -56,10 +56,7 @@ h1:hover, #error, button:hover{
     width:100%;
     border-radius: 0;
   }
-  /* .button{
-    width: 40px;
+  body{
+   background:  rgba(8, 8, 8, 0.911);
   }
-  .bigButton{
-    width: 80px;;
-  } */
 }
